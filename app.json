@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Busca Tributo",
+    "slug": "projeto-integrador",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7a133100-4cf3-4748-8252-94003d0d659e"
+      }
+    }
+  }
+}
